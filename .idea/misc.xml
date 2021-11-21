@@ -5,8 +5,15 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity.xml" value="0.2578125" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/list_veiw.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_history_list.xml" value="0.17255434782608695" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main1.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/layout/activity_manager.xml" value="0.13858695652173914" />
+        <entry key="app/src/main/res/layout/activity_restock.xml" value="0.16614583333333333" />
+        <entry key="app/src/main/res/layout/list_veiw.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/recycler_veiw.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/restock_list.xml" value="0.16614583333333333" />
       </map>
     </option>
   </component>

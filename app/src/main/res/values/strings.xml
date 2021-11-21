@@ -13,4 +13,5 @@
     <string name="nine">9</string>
     <string name="clear">C</string>
     <string name="zero">0</string>
+    <string name="manager_btu">Manager</string>
 </resources>

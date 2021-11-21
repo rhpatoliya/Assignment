@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.renu.assignment2">
 
     <application
@@ -9,6 +10,30 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Assignment2">
+        <activity
+            android:name=".HistoryListActivity"
+            android:exported="true" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.renu.assignment2.MainActivity" />
+        </activity>
+        <activity
+            android:name=".RestockActivity"
+            android:exported="true">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.renu.assignment2.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ManagerActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="true">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.renu.assignment2.MainActivity" />
+        </activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
